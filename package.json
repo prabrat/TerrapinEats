@@ -45,5 +45,9 @@
     "react-test-renderer": "18.2.0",
     "typescript": "~5.3.3"
   },
+  "overrides": { 
+    "ajv": "^8.17.1",
+    "whatwg-url": "^14.0.0"
+  },
   "private": true
 }
